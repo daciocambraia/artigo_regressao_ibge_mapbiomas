@@ -3,6 +3,10 @@
 ## 📌 Descrição
 Modelagem estatística da dinâmica urbano-rural no Distrito Federal utilizando regressão logística com base nos setores censitários do IBGE e MapBiomas.
 
+## 📜 Publicações
+- [Artigo completo]() *(insira o DOI ou link quando publicado)*
+- [Repositório no GitHub](https://github.com/daciocambraia/artigo_regressao_ibge_mapbiomas)
+
 ## 👥 Autores
 - **Glaucia Guimarães Pereira** - [![Email](https://img.shields.io/badge/Email-glauciagp23@gmail.com-blue?style=flat&logo=gmail)](mailto:glauciagp23@gmail.com)  
   *Centro de Desenvolvimento Sustentável (CDS), Universidade de Brasília (UnB)*
@@ -18,7 +22,22 @@ Modelagem estatística da dinâmica urbano-rural no Distrito Federal utilizando 
 
 - **Gustavo Macedo de Mello Baptista** - [![Email](https://img.shields.io/badge/Email-gmbaptista@unb.br-blue?style=flat&logo=gmail)](mailto:gmbaptista@unb.br)  
   *Centro de Desenvolvimento Sustentável, Instituto de Geociências (IG), Universidade de Brasília (UnB)*
-  
+
+## ✏️ Citação
+```bibtex
+@article{pereira2024modelagem,
+  title = {Modelagem da Situação Urbano-Rural por Regressão Logística no DF},
+  author = {Pereira, G. G. and Cambraia Filho, D. J. and Paim, D. A. et al.},
+  journal = {Revista X},
+  year = {2024},
+  url = {INSIRA_O_LINK_DO_ARTIGO}
+}
+```
+
+## 📊 Fonte de dados
+- **Malha de Setores Censitários (2022)** - [![IBGE](https://img.shields.io/badge/Fonte-IBGE-blue?logo=data:image/png;base64,...)](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/26565-malhas-de-setores-censitarios-divisoes-intramunicipais.html)  
+- **MapBiomas Coleção 9** - [![MapBiomas](https://img.shields.io/badge/Plataforma-MapBiomas-green?logo=leaf)](https://brasil.mapbiomas.org/)
+
 ## 📂 Estrutura do Repositório
 ```bash
 .
@@ -27,7 +46,3 @@ Modelagem estatística da dinâmica urbano-rural no Distrito Federal utilizando 
 ├── figs/     # Figuras
 └── doc/      # Documentação acadêmica
 ```
-
-## 📊 Principais Fonte de dados
-- **Malha de Setores Censitários (2022)** - [![IBGE](https://img.shields.io/badge/Fonte-IBGE-blue?logo=data:image/png;base64,...)](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/26565-malhas-de-setores-censitarios-divisoes-intramunicipais.html)  
-- **MapBiomas Coleção 9** - [![MapBiomas](https://img.shields.io/badge/Plataforma-MapBiomas-green?logo=leaf)](https://brasil.mapbiomas.org/)
