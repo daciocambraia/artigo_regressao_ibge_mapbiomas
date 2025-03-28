@@ -31,3 +31,5 @@ Modelagem estatística da dinâmica urbano-rural no Distrito Federal utilizando 
 ## 📊 Principais Fonte de dados
 - **Malha de Setores Censitários (2022)** - [![IBGE](https://img.shields.io/badge/Fonte-IBGE-blue?logo=data:image/png;base64,...)](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/26565-malhas-de-setores-censitarios-divisoes-intramunicipais.html)  
 - **MapBiomas Coleção 9** - [![MapBiomas](https://img.shields.io/badge/Plataforma-MapBiomas-green?logo=leaf)](https://brasil.mapbiomas.org/)
+
+ok
