@@ -4,16 +4,16 @@
 Modelagem estatística da dinâmica urbano-rural no Distrito Federal utilizando regressão logística com base nos setores censitários do IBGE e MapBiomas.
 
 ## 👥 Autores
-- **Glaucia Guimarães Pereira** - [![Email](https://img.shields.io/badge/Email-glauciagp23@gmail.com-blue?style=flat&logo=gmail)](mailto:glauciagp23@gmail.com)
+- **Glaucia Guimarães Pereira** - [![Email](https://img.shields.io/badge/Email-glauciagp23@gmail.com-blue?style=flat&logo=gmail)](mailto:glauciagp23@gmail.com)  
   *Centro de Desenvolvimento Sustentável (CDS), Universidade de Brasília (UnB)*
 
-- **Dácio José Cambraia Filho** - [![Email](https://img.shields.io/badge/Email-daciocambraia@hotmail.com-blue?style=flat&logo=gmail)](mailto:daciocambraia@hotmail.com)
+- **Dácio José Cambraia Filho** - [![Email](https://img.shields.io/badge/Email-daciocambraia@hotmail.com-blue?style=flat&logo=gmail)](mailto:daciocambraia@hotmail.com)  
   *Centro de Desenvolvimento Sustentável (CDS), Universidade de Brasília (UnB)*
   
 - **Diego de Almeida Paim** - [![Email](https://img.shields.io/badge/Email-diego.paim@aluno.unb.br-blue?style=flat&logo=gmail)](mailto:diego.paim@aluno.unb.br)  
   *Instituto de Geociências (IG), Universidade de Brasília (UnB)*
 
-- **Roberto Mandetta Gandara** -   [![Email](https://img.shields.io/badge/Email-rgandara@gmail.com-blue?style=flat&logo=gmail)](mailto:rgandara@gmail.com)
+- **Roberto Mandetta Gandara** -   [![Email](https://img.shields.io/badge/Email-rgandara@gmail.com-blue?style=flat&logo=gmail)](mailto:rgandara@gmail.com)  
   *Sem filiação*
 
 - **Gustavo Macedo de Mello Baptista** - [![Email](https://img.shields.io/badge/Email-gmbaptista@unb.br-blue?style=flat&logo=gmail)](mailto:gmbaptista@unb.br)  
