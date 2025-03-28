@@ -4,7 +4,7 @@
 Modelagem estatística da dinâmica urbano-rural no Distrito Federal utilizando regressão logística com base nos setores censitários do IBGE e MapBiomas.
 
 ## 📜 Publicações
-- [Artigo completo]() *(insira o DOI ou link quando publicado)*
+- [Artigo completo]()
 - [Repositório no GitHub](https://github.com/daciocambraia/artigo_regressao_ibge_mapbiomas)
 
 ## 👥 Autores
@@ -24,6 +24,7 @@ Modelagem estatística da dinâmica urbano-rural no Distrito Federal utilizando 
   *Centro de Desenvolvimento Sustentável, Instituto de Geociências (IG), Universidade de Brasília (UnB)*
 
 ## ✏️ Citação
+### BibTeX
 ```bibtex
 @article{pereira2024modelagem,
   title = {Modelagem da Situação Urbano-Rural por Regressão Logística no DF},
@@ -33,6 +34,8 @@ Modelagem estatística da dinâmica urbano-rural no Distrito Federal utilizando 
   url = {INSIRA_O_LINK_DO_ARTIGO}
 }
 ```
+### ABNT
+SOBRENOME, Nome; SOBRENOME, Nome. **Título do artigo**. *Nome da Revista*, [S.l.], v. X, n. Y, p. XX-YY, ano. Disponível em: <URL>. Acesso em: dia mês. ano.
 
 ## 📊 Fonte de dados
 - **Malha de Setores Censitários (2022)** - [![IBGE](https://img.shields.io/badge/Fonte-IBGE-blue?logo=data:image/png;base64,...)](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/26565-malhas-de-setores-censitarios-divisoes-intramunicipais.html)  
