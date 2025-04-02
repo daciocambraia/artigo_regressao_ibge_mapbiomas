@@ -10,6 +10,7 @@ library(pROC)     # Para curvas ROC e métricas relacionadas
 
 # CARREGAMENTO DOS DADOS ---------------------------------------------------
 
+#Dados Brutos
 dados <- read_excel("data/setor_mapbiomas_30m.xlsx")
 summary(dados)
 
@@ -44,7 +45,7 @@ fig_01 <- ggpairs(
 print(fig_01)
 
 # Salvar Figura 1
-ggsave("figs/01_analise_exploratoria.png", plot = fig_01, width = 8, height = 6, dpi = 600)
+ggsave("figs/01_analise_exploratoria.png", plot = fig_01, width = 8, height = 5, dpi = 600)
 
 # PREPARAÇÃO PARA MODELAGEM ------------------------------------------------
 
@@ -105,7 +106,7 @@ plot(fig_02)
 cat("AUC: ", auc(roc_teste), "\n")
 
 # Salvar Figura 02
-ggsave("figs/02_curva_hoc_auc.png", plot = fig_02, width = 8, height = 6, dpi = 600)
+ggsave("figs/02_curva_hoc_auc.png", plot = fig_02, width = 8, height = 5, dpi = 600)
 
 # VISUALIZAÇÃO DAS RELAÇÕES ------------------------------------------------
 
@@ -131,4 +132,4 @@ fig_03 <- ggplot(dados2.teste_long, aes(x = Valor, y = SITUACAO_2, color = Varia
 plot(fig_03)
 
 # Salvar Figura 03
-ggsave("figs/03_curva_regressao.png", plot = fig_03, width = 8, height = 6, dpi = 600)
+ggsave("figs/03_curva_regressao.png", plot = fig_03, width = 8, height = 5, dpi = 600)
